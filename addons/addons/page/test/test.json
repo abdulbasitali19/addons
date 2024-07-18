@@ -1,0 +1,19 @@
+{
+ "content": null,
+ "creation": "2024-05-09 20:15:02.473269",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2024-05-09 20:15:02.473269",
+ "modified_by": "Administrator",
+ "module": "Addons",
+ "name": "test",
+ "owner": "Administrator",
+ "page_name": "test",
+ "roles": [],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Test"
+}
